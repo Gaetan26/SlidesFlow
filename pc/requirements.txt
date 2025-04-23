@@ -1,0 +1,7 @@
+colorama==0.4.6
+customtkinter==5.2.2
+darkdetect==0.8.0
+keyboard==0.13.5
+packaging==24.2
+paho-mqtt==2.1.0
+pillow==11.1.0
